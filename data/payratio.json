@@ -1,5 +1,5 @@
 {
-   "payratios_2015_16":[
+   "pay_ratios_2015_16":[
       {
          "name":"Birkbeck",
          "max":350064,
@@ -141,6 +141,92 @@
             16961,
             18940
          ]
+      }
+   ],
+   "pay_ratios_2012_13":[
+      {
+         "name":"Birkbeck",
+         "max":316741,
+         "min":17597,
+         "median":39593
+      },
+      {
+         "name":"Brunel",
+         "max":225000,
+         "min":10499,
+         "median":36645
+      },
+      {
+         "name":"City",
+         "max":303000,
+         "min":17824,
+         "median":43286
+      },
+      {
+         "name":"Imperial",
+         "max":416250,
+         "min":14813,
+         "median":39269
+      },
+      {
+         "name":"King's",
+         "max":276000,
+         "min":14526,
+         "median":39429
+      },
+      {
+         "name":"LBS",
+         "max":495204,
+         "min":15974,
+         "median":49520
+      },
+      {
+         "name":"RHUL",
+         "max":259000,
+         "min":14389,
+         "median":28778
+      },
+      {
+         "name":"SOAS",
+         "max":220911,
+         "min":16799,
+         "median":27893
+      },
+      {
+         "name":"St George's",
+         "max":233215,
+         "min":16309,
+         "median":"N/A"
+      },
+      {
+         "name":"East London",
+         "max":266000,
+         "min":15647,
+         "median":53200
+      },
+      {
+         "name":"Greenwich",
+         "max":258456,
+         "min":18074,
+         "median":52213
+      },
+      {
+         "name":"Westminster",
+         "max":270000,
+         "min":22500,
+         "median":45000
+      },
+      {
+         "name":"London Met",
+         "max":220000,
+         "min":16016,
+         "median":"N/A"
+      },
+      {
+         "name":"London South Bank",
+         "max":233000,
+         "min":16016,
+         "median":"N/A"
       }
    ]
 }
