@@ -141,6 +141,12 @@
             16961,
             18940
          ]
+      },
+      {
+         "name":"LSHTM",
+         "max":273542,
+         "min":20030,
+         "median":43028
       }
    ],
    "pay_ratios_2012_13":[
@@ -226,6 +232,12 @@
          "name":"London South Bank",
          "max":233000,
          "min":16016,
+         "median":"N/A"
+      },
+      {
+         "name":"LSHTM",
+         "max":227260,
+         "min":17309,
          "median":"N/A"
       }
    ]

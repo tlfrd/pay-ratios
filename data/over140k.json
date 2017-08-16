@@ -105,6 +105,11 @@
          "name":"LSBU",
          "over":6,
          "women":1
+      },
+      {
+        "name":"LSHTM",
+        "over":3,
+        "women":1
       }
    ]
 }
